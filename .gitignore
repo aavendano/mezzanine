@@ -15,6 +15,7 @@ local_settings.py
 .eggs/
 .tox/
 .venv/
+demo/
 Mezzanine.egg-info/
 build/
 docs/build/
